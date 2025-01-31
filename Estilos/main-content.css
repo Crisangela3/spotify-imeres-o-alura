@@ -334,4 +334,10 @@
   #result-artist {
     padding: 20px 40px;
   }
+
+  .playlist .session {
+    color: #fff;
+    font-size: 24px;
+    font-weight: 700;
+  }
   /* FIM CARD ARTISTA */
